@@ -1,6 +1,8 @@
-layout: default
-title: "Simple Text Length Counter Using Python"
-date: "2021-15-03 13:17:00"
-categories: Python
+# Setup
+title:        Simple Text Length Counter Using Python
+tagline:      Count your text lenght quickly using python programming language
+baseurl:      "https://mhtuhinlrc.github.io/simple-text-length-counter-using-python/"
+paginate:     1
+locale:       "en"
 
 theme: jekyll-theme-cayman
