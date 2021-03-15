@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-site.title: Test
+
+site:
+  title: Test
