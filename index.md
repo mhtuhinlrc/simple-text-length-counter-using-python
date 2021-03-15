@@ -2,6 +2,6 @@
 
 ### Comming soon
 
-'''python
+```python
   print(" Comming Soon :) ")
-'''
+```
